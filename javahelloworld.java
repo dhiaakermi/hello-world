@@ -6,5 +6,6 @@ class HelloWorld
     { 
         System.out.println("Hello, World"); 
 		System.out.println("my name is dhia akermi");
+		System.out.println("my binome  is yassine soltani");
     } 
 } 
