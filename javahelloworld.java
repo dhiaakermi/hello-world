@@ -8,5 +8,8 @@ class HelloWorld
 	        System.out.println("hello this is my new version");
 		System.out.println("my name is dhia akermi");
 		System.out.println("my binome  is yassine soltani");
+	      System.out.println("hello this is my new version");
+		System.out.println("my name is dhia akermi");
+		System.out.println("my binome  is yassine soltani");
     } 
 } 
